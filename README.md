@@ -1,3 +1,3 @@
 # Practice
-Experimental repository as an beginner
-author - prateek kumar
+Experimental repository as an beginner / FIrst repository
+author - Prateek Kumar
